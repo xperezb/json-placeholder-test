@@ -1,0 +1,264 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Marc-André",
+      "surname": "ter Stegen",
+      "position": 0,
+      "dorsal": 1,
+      "games": 327,
+      "img": "../../assets/img/porteros/jugador_fitxa-ter_stegen.jpg",
+      "porteria_a_cero": 121,
+      "paradas": 767
+    },
+    {
+      "id": 13,
+      "name": "Neto",
+      "surname": ".",
+      "position": 0,
+      "dorsal": 13,
+      "games": 21,
+      "img": "../../assets/img/porteros/jugador_fitxa-ento.jpg",
+      "porteria_a_cero": 6,
+      "paradas": 42
+    },
+    {
+      "id": 2,
+      "name": "Sergiño",
+      "surname": "Dest",
+      "position": 1,
+      "dorsal": 2,
+      "games": 72,
+      "img": "../../assets/img/defensas/jugador_fitxa-dest.jpg",
+      "goals": 3,
+      "assists": 4
+    },
+    {
+      "id": 3,
+      "name": "Gerard",
+      "surname": "Piqué",
+      "position": 1,
+      "dorsal": 3,
+      "games": 606,
+      "img": "../../assets/img/defensas/jugador_fitxa-pique.jpg",
+      "goals": 52,
+      "assists": 7
+    },
+    {
+      "id": 4,
+      "name": "Ronald",
+      "surname": "Araújo",
+      "position": 1,
+      "dorsal": 4,
+      "games": 82,
+      "img": "../../assets/img/defensas/jugador_fitxa-araujo.jpg",
+      "goals": 6,
+      "assists": 1
+    },
+    {
+      "id": 18,
+      "name": "Jordi",
+      "surname": "Alba",
+      "position": 1,
+      "dorsal": 18,
+      "games": 428,
+      "img": "../../assets/img/defensas/jugador_fitxa-jordi_alba.jpg",
+      "goals": 25,
+      "assists": 85
+    },
+    {
+      "id": 22,
+      "name": "Óscar",
+      "surname": "Mingueza",
+      "position": 1,
+      "dorsal": 22,
+      "games": 66,
+      "img": "../../assets/img/defensas/jugador_fitxa-mingueza.jpg",
+      "goals": 2,
+      "assists": 5
+    },
+    {
+      "id": 23,
+      "name": "Samuel",
+      "surname": "Umtiti",
+      "position": 1,
+      "dorsal": 23,
+      "games": 133,
+      "img": "../../assets/img/defensas/jugador_fitxa-umtiti.jpg",
+      "goals": 2,
+      "assists": 1
+    },
+    {
+      "id": 24,
+      "name": "Eric",
+      "surname": "García",
+      "position": 1,
+      "dorsal": 24,
+      "games": 36,
+      "img": "../../assets/img/defensas/jugador_fitxa-eric.jpg",
+      "goals": 0,
+      "assists": 0
+    },
+    {
+      "id": 0,
+      "name": "Andreas",
+      "surname": "Christensen",
+      "position": 1,
+      "dorsal": 0,
+      "games": 0,
+      "img": "../../assets/img/defensas/jugador_fitxa-christensen.jpg",
+      "goals": 0,
+      "assists": 0
+    },
+    {
+      "id": 5,
+      "name": "Sergio",
+      "surname": "Busquets",
+      "position": 2,
+      "dorsal": 5,
+      "games": 681,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-sergio.jpg",
+      "goals": 18,
+      "assists": 36
+    },
+    {
+      "id": 6,
+      "name": "Riqui",
+      "surname": "Puig",
+      "position": 2,
+      "dorsal": 6,
+      "games": 57,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-riqui.jpg",
+      "goals": 2,
+      "assists": 3
+    },
+    {
+      "id": 8,
+      "name": "Pedri",
+      "surname": ".",
+      "position": 2,
+      "dorsal": 8,
+      "games": 74,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-pedri.jpg",
+      "goals": 9,
+      "assists": 7
+    },
+    {
+      "id": 14,
+      "name": "Nico",
+      "surname": "González",
+      "position": 2,
+      "dorsal": 14,
+      "games": 37,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-nico.jpg",
+      "goals": 2,
+      "assists": 2
+    },
+    {
+      "id": 20,
+      "name": "Sergi",
+      "surname": "Roberto",
+      "position": 2,
+      "dorsal": 20,
+      "games": 316,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-s_roberto.jpg",
+      "goals": 12,
+      "assists": 37
+    },
+    {
+      "id": 21,
+      "name": "Frenkie",
+      "surname": "de Jong",
+      "position": 2,
+      "dorsal": 21,
+      "games": 140,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-frenkie.jpg",
+      "goals": 13,
+      "assists": 15
+    },
+    {
+      "id": 99,
+      "name": "Franck",
+      "surname": "Kessié",
+      "position": 2,
+      "dorsal": 99,
+      "games": 0,
+      "img": "../../assets/img/centrocampistas/jugador_fitxa-kessie.jpg",
+      "goals": 0,
+      "assists": 0
+    },
+    {
+      "id": 7,
+      "name": "Ousmane",
+      "surname": "Dembélé",
+      "position": 3,
+      "dorsal": 7,
+      "games": 150,
+      "img": "../../assets/img/delanteros/mini_1200x750-dembele.jpg",
+      "goals": 32,
+      "assists": 33
+    },
+    {
+      "id": 9,
+      "name": "Memphis",
+      "surname": "Depay",
+      "position": 3,
+      "dorsal": 9,
+      "games": 38,
+      "img": "../../assets/img/delanteros/jugador_fitxa-memphis.jpg",
+      "goals": 13,
+      "assists": 2
+    },
+    {
+      "id": 10,
+      "name": "Ansu",
+      "surname": "Fati",
+      "position": 3,
+      "dorsal": 10,
+      "games": 58,
+      "img": "../../assets/img/delanteros/jugador_fitxa-ansu.jpg",
+      "goals": 19,
+      "assists": 3
+    },
+    {
+      "id": 12,
+      "name": "Martin",
+      "surname": "Braithwaite",
+      "position": 3,
+      "dorsal": 12,
+      "games": 58,
+      "img": "../../assets/img/delanteros/jugador_fitxa-brraithwaite.jpg",
+      "goals": 10,
+      "assists": 4
+    },
+    {
+      "id": 19,
+      "name": "Ferran",
+      "surname": "Torres",
+      "position": 3,
+      "dorsal": 19,
+      "games": 26,
+      "img": "../../assets/img/delanteros/jugador_fitxa-ferran.jpg",
+      "goals": 7,
+      "assists": 6
+    },
+    {
+      "id": 25,
+      "name": "Pierre-Emerick",
+      "surname": "Aubameyang",
+      "position": 3,
+      "dorsal": 2,
+      "games": 23,
+      "img": "../../assets/img/delanteros/jugador_fitxa-auba.jpg",
+      "goals": 13,
+      "assists": 1
+    },
+    {
+      "id": 100,
+      "name": "Xavi",
+      "surname": "Hernández",
+      "position": 4,
+      "img": "../../assets/img/cuerpo_tecnico/1200x750-xavi.jpg"
+    }
+  ]
+}
